@@ -1,0 +1,6 @@
+the algorithm works for the number mention in the exercise(13195). But take too long for 600851475143
+
+the idea is to fine all the number that divide specified number (the factors)
+then each factor is examine to knwon if it's prime
+
+we then print the largest factor

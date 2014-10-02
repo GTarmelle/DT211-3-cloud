@@ -1,0 +1,2 @@
+the largest 3-digit number is 999
+so if begin with the multiplication of highest numbers and check if they are palindrome, the first palindrome will be the largest from the product of 3 digit numbers

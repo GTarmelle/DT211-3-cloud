@@ -1,0 +1,1 @@
+check all the numbers below and sum them if there multiple of 3 or 5 

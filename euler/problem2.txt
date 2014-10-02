@@ -1,0 +1,1 @@
+the idea is to calculate the Fibonacci value of numbers from 1 and add to the initial sum of 0 if they don't exceed 4 million and are even
